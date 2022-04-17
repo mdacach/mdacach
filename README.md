@@ -8,12 +8,21 @@ the start, I've fallen in love
 with online courses on edX, Coursera and MIT OCW. Then, I've discovered Competitive Programming and put in a lot of
 effort into that. And for the last year, I've been working for an international micro start-up with a very ambitious
 (and complex) project, using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
+Please also [check my LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
+
+### Sections
+
+* [Online Courses](#online-courses)
+* [Competitive Programming](#competitive-programming)
+* [Freelancing](#freelancing)
+* [Software Engineering](#software-engineering)
+* [Current Learning Projects](#current-learning-projects)
 
 ### Online Courses
 
 My first self-learning experience was with Online Courses. Top-tier universities provide quality courses for free, on
-platforms such as [edX](https://www.edx.org/)
-, [Coursera](https://www.coursera.org/) and [MIT OCW](https://ocw.mit.edu/).
+platforms such as [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/) and [MIT OCW](https://ocw.mit.edu/)
+.
 They also usually come with an "audit" option, where you can go over the courses resources (sometimes even the exams!)
 but without the Certificate
 of
@@ -83,10 +92,29 @@ for the most up-to-date information about my work. Please note that our reposito
 here
 on GitHub. Also note that most of my code here is old.
 
-TODO:
+### Current Learning Projects
 
-* Maybe put more information here
-* Discuss my learning experiences for Software Engineering (books, resources)
-* Link to current learning projects
+I am currently learning Design Patterns by going through the great
+book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
+(in Java) and porting it to my current stack, C++. You can check the work in
+progress [here](https://github.com/mdacach/head_first_design_patterns_cpp).
+Relevant resources for this project are
+
+* [learncpp](https://www.learncpp.com/) which I've found to be a very nice refresher on C++ topics
+* [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp) which was also porting the
+  examples in Java to be C++, but is unfortunately incomplete.
+
+Topics for the near-future are:
+
+* Test-Driven Design,
+  with [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483)
+* System Design
+  with [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=pd_sbs_sccl_1/137-0417816-8881332?pd_rd_w=M4unz&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=9E8EYTQ7PQVFK7WSMBWZ&pd_rd_r=c604fbc0-1703-4d0b-b831-ef54d7ddbdc0&pd_rd_wg=NmQk5&pd_rd_i=B08CMF2CQF&psc=1)
+* Computer Systems
+  with [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Global-ebook/dp/B07V71PHR7/ref=sr_1_2?keywords=csapp&qid=1650239425&sr=8-2)
+* and the
+  famous [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+TODO:
+* Maybe discuss further my work experience
 * Overview of past projects
-* Refactor this to give more importance to newer sections, as Software Engineering
