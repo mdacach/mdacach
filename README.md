@@ -2,12 +2,12 @@
 
 ### Introduction
 
-I am Matheus, a Software Engineer specialized in Algorithms and Data Structures.
-I've chosen to not continue pursuing my Degree, and have been self-learning Computer Science for around 4 years now. At
+I am Matheus, a Software Engineer specializing in Algorithms and Data Structures.
+I've chosen not to continue pursuing my college degree and have been self-learning Computer Science for around 4 years now. At
 the start, I've fallen in love
-with online courses on edX, Coursera and MIT OCW. Then, I've discovered Competitive Programming and put in a lot of
-effort into that. And for the last year, I've been working for an international micro start-up with a very ambitious
-(and complex) project, using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
+with online courses on edX, Coursera, and MIT OCW. Then, I discovered Competitive Programming and put a lot of
+effort into that. And for the last year, I've been working for an international micro startup with a very ambitious
+(and complex) project using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
 Please also [check my LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
 
 ### Sections
@@ -42,10 +42,10 @@ Courses that I've audited, in no particular order:
 
 Honorable mentions to:
 
-* [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) which I've
+* [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics), which I've
   attempted
   to go through
-  when pursuing Data Science and ML, but was way too hard for me at the time haha
+  when pursuing Data Science and ML, but it was way too hard for me at the time, haha
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) MIT's Playlist
   on
   Youtube, which I've watched
@@ -53,18 +53,18 @@ Honorable mentions to:
 
 ### Competitive Programming
 
-I've found Competitive Programming to be a great (and fun) exercise, having poured a lot of hours into it. I regularly
+I've found Competitive Programming to be a great (and fun) exercise, having poured many hours into it. I regularly
 compete on [Codeforces](https://codeforces.com/profile/matheusdacach)
-where I have currently 1729 (Expert) rating, with more than 1200 problems solved. I've learned a great deal of
+where I currently have 1729 rating (Expert), with more than 1200 problems solved. I've learned a great deal of
 interesting ideas in Computer Science and have honed my Problem-Solving skills due to
 the competitions.
 
 All in all, I think Competitive Programming is much more beneficial than it first seems, and that's
-why I've chosen to focus on it for so long. That being said, it also comes with downfalls:
+why I've chosen to focus on it for so long. But it also comes with downfalls:
 in competitions, we must strive to pass the solutions in the least coding time possible, so not a lot of consideration
 is given
-to write clean, maintainable and readable code, which required a change of perspective
-when writing production-ready code, for my current job.
+to write clean, maintainable, and readable code, which required a change of perspective
+when writing production-ready code for my current job.
 
 All my submissions are public on Codeforces, but I do not recommend going through them. I also have plans to push
 solutions
@@ -74,9 +74,9 @@ implementations for competitions, but it is a work in progress.
 ### Freelancing
 
 My first work experience was through Freelancing. I am currently Top Rated Plus on Upwork, with 100%
-Job Success Score and 5-star feedbacks. I have taken projects that include:
+Job Success Score and 5-star feedback. I have taken projects that include:
 
-* Software Engineering assignments on multiple languages
+* Software Engineering assignments in multiple languages
 * Hard algorithmic problems
 * Algorithmic training
 * Production-ready C++ development
@@ -86,11 +86,11 @@ for "Big Tech" Coding Interviews.
 
 ### Software Engineering
 
-For the past year, I've been working for a micro startup with a very ambitious project. Please refer to
+I've been working for a micro startup with a very ambitious project for the past year. Please refer to
 my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
 for the most up-to-date information about my work. Please note that our repository is private, so my work there is not
 here
-on GitHub. Also note that most of my code here is old.
+on GitHub. Also, note that most of my code here is old.
 
 ### Current Learning Projects
 
@@ -100,8 +100,8 @@ book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com
 progress [here](https://github.com/mdacach/head_first_design_patterns_cpp).
 Relevant resources for this project are
 
-* [learncpp](https://www.learncpp.com/) which I've found to be a very nice refresher on C++ topics
-* [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp) which was also porting the
+* [learncpp](https://www.learncpp.com/) which I've found to be an amazing refresher on C++ topics
+* [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp), which was also porting the
   examples in Java to be C++, but is unfortunately incomplete.
 
 Topics for the near-future are:
