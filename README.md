@@ -64,7 +64,9 @@ Relevant resources for this project are
  ### [Concurrency (Java)](https://github.com/mdacach/autonomous_driving)
 This is an old University Assignment on Concurrency. Multiple cars go through shared sections of a road.
 
-
+### [Web Development with Go (Let's Go Book by Alex Edwards)](https://github.com/mdacach/lets_go_web_development)
+I have also started studying Go, for Web Development. I followed [this book](https://lets-go.alexedwards.net/) by Alex Edwards, but did not complete it
+due to not liking the Web Development area as much as Systems Programming. I did like GoLang as a language though, and will keep studying it.
 
 ### Future Projects
 Topics for the near-future:
