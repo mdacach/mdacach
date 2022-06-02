@@ -24,9 +24,21 @@ I've been working for a micro startup with a very ambitious project for the past
 my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
 for the most up-to-date information about my work. Please note that our repository is private, so my work there is not
 here
-on GitHub. Also, note that most of my code here is old.
+on GitHub.
 
 ## Projects
+
+### [Prefix Tree](https://github.com/mdacach/prefix_tree)
+This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repo. I would love suggestions too!
+
+Relevant Tags:
+
+* C++17
+* Test-Driven Development, TDD, BDD
+* Unit Tests
+* Best practices, Clean Code
+* Documentation
+* Data Structures, Algorithms
 
 ### Learning Rust
 I've been amazed by Rust, and am in the process of learning it.
@@ -38,22 +50,24 @@ Some projects in Rust:
 #### [Grep command-line application from The Rust Programming Language](https://github.com/mdacach/minigrep)
 
 
-### Design Patterns (Java -> C++)
+### [Design Patterns (Java -> C++)](https://github.com/mdacach/head_first_design_patterns_cpp)
 I am currently learning Design Patterns by going through the great
 book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
-(in Java) and porting it to my current stack, C++. You can check the work in
-progress [here](https://github.com/mdacach/head_first_design_patterns_cpp).
+(in Java) and porting it to my current stack, C++. Please note it is a work in
+progress.
 Relevant resources for this project are
 
 * [learncpp](https://www.learncpp.com/) which I've found to be an amazing refresher on C++ topics
 * [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp), which was also porting the
   examples in Java to be C++, but is unfortunately incomplete.
  
- ### Concurrency (Java)
+ ### [Concurrency (Java)](https://github.com/mdacach/autonomous_driving)
 This is an old University Assignment on Concurrency. Multiple cars go through shared sections of a road.
-You can find the code [here](https://github.com/mdacach/autonomous_driving).
 
-Topics for the near-future are:
+
+
+### Future Projects
+Topics for the near-future:
 
 * Test-Driven Design,
   with [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483)
