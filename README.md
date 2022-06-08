@@ -1,6 +1,6 @@
 #### Hi, I hope this message finds you well!
 
-## Introduction
+# Introduction
 
 I am Matheus, a Software Engineer specializing in Algorithms and Data Structures.
 I've chosen not to continue pursuing my college degree and have been self-learning Computer Science for around 4 years now. At
@@ -10,7 +10,7 @@ effort into that. And for the last year, I've been working for an international 
 (and complex) project using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
 Please also [check my LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
 
-## Sections
+# Sections
 
 * [Software Engineering](#software-engineering)
 * [Projects](#projects)
@@ -18,7 +18,7 @@ Please also [check my LinkedIn profile](https://www.linkedin.com/in/matheus-card
 * [Competitive Programming](#competitive-programming)
 * [Online Courses](#online-courses)
 
-## Software Engineering
+# Software Engineering
 
 I've been working for a micro startup with a very ambitious project for the past year. Please refer to
 my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
@@ -26,9 +26,9 @@ for the most up-to-date information about my work. Please note that our reposito
 here
 on GitHub.
 
-## Projects
+# Projects
 
-### [Prefix Tree](https://github.com/mdacach/prefix_tree)
+## [Prefix Tree](https://github.com/mdacach/prefix_tree)
 This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repo. I would love suggestions too!
 
 Relevant Tags:
@@ -40,17 +40,18 @@ Relevant Tags:
 * Documentation
 * Data Structures, Algorithms
 
-### Learning Rust
-I've been amazed by Rust, and am in the process of learning it.
+## Learning Rust
+I've been amazed by the language and I aim to become an excellent Rust programmer.
 
-Some projects in Rust:
+Some learning projects in Rust:
+### [Solutions for Rustlings](https://github.com/mdacach/rustlings_solutions)
 
-#### [Guessing Game from The Rust Programming Language](https://github.com/mdacach/guessing_game)
-#### [Solutions for Rustlings](https://github.com/mdacach/rustlings_solutions)
-#### [Grep command-line application from The Rust Programming Language](https://github.com/mdacach/minigrep)
+### Projects from ["The Rust Programming Language"](https://doc.rust-lang.org/book/title-page.html)
+#### [Multithreaded Web Server (Chapter 20)](https://github.com/mdacach/multithreaded_web_server)
+#### [Grep command-line application (Chapter 12)](https://github.com/mdacach/minigrep)
+#### [Guessing Game (Chapter 2)](https://github.com/mdacach/guessing_game)
 
-
-### [Design Patterns (Java -> C++)](https://github.com/mdacach/head_first_design_patterns_cpp)
+## [Design Patterns (Java -> C++)](https://github.com/mdacach/head_first_design_patterns_cpp)
 I am currently learning Design Patterns by going through the great
 book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
 (in Java) and porting it to my current stack, C++. Please note it is a work in
@@ -61,14 +62,14 @@ Relevant resources for this project are
 * [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp), which was also porting the
   examples in Java to be C++, but is unfortunately incomplete.
  
- ### [Concurrency (Java)](https://github.com/mdacach/autonomous_driving)
+## [Concurrency (Java)](https://github.com/mdacach/autonomous_driving)
 This is an old University Assignment on Concurrency. Multiple cars go through shared sections of a road.
 
-### [Web Development with Go (Let's Go Book by Alex Edwards)](https://github.com/mdacach/lets_go_web_development)
+## [Web Development with Go (Let's Go Book by Alex Edwards)](https://github.com/mdacach/lets_go_web_development)
 I have also started studying Go, for Web Development. I followed [this book](https://lets-go.alexedwards.net/) by Alex Edwards, but did not complete it
 due to not liking the Web Development area as much as Systems Programming. I did like GoLang as a language though, and will keep studying it.
 
-### Future Projects
+## Future Projects
 Topics for the near-future:
 
 * Test-Driven Design,
@@ -80,7 +81,7 @@ Topics for the near-future:
 * and the
   famous [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
   
-## Freelancing
+# Freelancing
 
 My first work experience was through Freelancing. I am currently Top Rated Plus on Upwork, with 100%
 Job Success Score and 5-star feedback. I have taken projects that include:
@@ -93,7 +94,7 @@ Job Success Score and 5-star feedback. I have taken projects that include:
 With a special mention to Coding Interview Preparation, where I've done more than 40 hour-sessions preparing a mentee
 for "Big Tech" Coding Interviews.
 
-## Competitive Programming
+# Competitive Programming
 
 I've found Competitive Programming to be a great (and fun) exercise, having poured many hours into it. I regularly
 compete on [Codeforces](https://codeforces.com/profile/matheusdacach)
@@ -113,7 +114,7 @@ solutions
 to [CSES Problem Set](https://cses.fi/problemset/) and my individual library of Algorithms and Data Structures
 implementations for competitions, but it is a work in progress.
 
-## Online Courses
+# Online Courses
 
 My first self-learning experience was with Online Courses. Top-tier universities provide quality courses for free, on
 platforms such as [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/) and [MIT OCW](https://ocw.mit.edu/)
