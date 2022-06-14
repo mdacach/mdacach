@@ -45,11 +45,24 @@ I've been amazed by the language and I aim to become an excellent Rust programme
 
 Some learning projects in Rust:
 ### [Solutions for Rustlings](https://github.com/mdacach/rustlings_solutions)
+### [Solutions for exercism.org](https://github.com/mdacach/exercism_solutions)
+
+&nbsp;
+&nbsp;
 
 ### Projects from ["The Rust Programming Language"](https://doc.rust-lang.org/book/title-page.html)
-#### [Multithreaded Web Server (Chapter 20)](https://github.com/mdacach/multithreaded_web_server)
-#### [Grep command-line application (Chapter 12)](https://github.com/mdacach/minigrep)
-#### [Guessing Game (Chapter 2)](https://github.com/mdacach/guessing_game)
+### [Multithreaded Web Server (Chapter 20)](https://github.com/mdacach/multithreaded_web_server)
+### [Grep command-line application (Chapter 12)](https://github.com/mdacach/minigrep)
+### [Guessing Game (Chapter 2)](https://github.com/mdacach/guessing_game)
+
+&nbsp;
+&nbsp;
+
+### Projects from ["Programming Rust"](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+### [Mandelbrot Generator (Chapter 2)](https://github.com/mdacach/mandelbrot_generator)
+### [GCD Web Server (Chapter 2)](https://github.com/mdacach/gcd_web_server)
+### [GCD CLI application (Chapter 2)](https://github.com/mdacach/gcd_cli)
+
 
 ## [Design Patterns (Java -> C++)](https://github.com/mdacach/head_first_design_patterns_cpp)
 I am currently learning Design Patterns by going through the great
