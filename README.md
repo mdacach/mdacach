@@ -8,7 +8,7 @@ the start, I've fallen in love
 with online courses on edX, Coursera, and MIT OCW. Then, I discovered Competitive Programming and put a lot of
 effort into that. And for the last year, I've been working for an international micro startup with a very ambitious
 (and complex) project using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
-Please also [check my LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
+Please also check my [LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
 
 # Sections
 
