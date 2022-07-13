@@ -42,8 +42,17 @@ Relevant Tags:
 
 ## Learning Rust
 I've been amazed by the language and I aim to become an excellent Rust programmer.
+I am learning Rust primarily through books (there are many great ones!) and putting the skills learned in action through my project below.
 
-Some learning projects in Rust:
+### [Automating script for incremental game](https://github.com/mdacach/ngu_script_rust)
+This is a script for automating the gameplay of an [incremental game](https://en.wikipedia.org/wiki/Incremental_game).
+It gives me the opportunity of going deeper in the environment and practice my Rust skills. It's under active development.
+
+&nbsp;
+&nbsp;
+
+Some more learning projects:
+
 ### [Solutions for Rustlings](https://github.com/mdacach/rustlings_solutions)
 ### [Solutions for exercism.org](https://github.com/mdacach/exercism_solutions)
 
