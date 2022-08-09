@@ -28,6 +28,12 @@ on GitHub.
 
 # Projects
 
+## [Rolling Hash File Sync C++](https://github.com/mdacach/rolling_hash_file_diff)
+A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis.
+
+## [Rolling Hash Data Structure Rust](https://github.com/mdacach/rolling_hash_rust)
+Implementation of the hashing structure used above, now in Rust.
+
 ## [Prefix Tree](https://github.com/mdacach/prefix_tree)
 This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repo. I would love suggestions too!
 
