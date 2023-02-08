@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Matheus, I am a Backend Software Engineer, looking for a new remote role.
+I am a Backend Software Engineer looking for a new remote role.
 I have been self-learning Computer Science for around 5 years now.   
 I am particularly good with Algorithms and Data Structures, having competed in [ICPC](https://icpc.global/) twice.  
 I was selected for, and am currently enrolled in [EPIC Institute of Technology](https://epic-institute.io/about-epic-institute.html),
