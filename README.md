@@ -1,14 +1,12 @@
-#### Hi, I hope this message finds you well!
-
 # Introduction
 
-I am Matheus, a Software Engineer specializing in Algorithms and Data Structures.
-I've chosen not to continue pursuing my college degree and have been self-learning Computer Science for around 4 years now. At
-the start, I've fallen in love
-with online courses on edX, Coursera, and MIT OCW. Then, I discovered Competitive Programming and put a lot of
-effort into that. And for the last year, I've been working for an international micro startup with a very ambitious
-(and complex) project using modern C++. It is a lot of fun! Below I go on a bit deeper into my experiences. Enjoy!
-Please also check my [LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/).
+My name is Matheus, a Software Engineer specializing in Algorithms and Data Structures.  
+I have been self-learning Computer Science for around 5 years now.   
+I am particularly good with Algorithms and Data Structures, having competed in [ICPC](https://icpc.global/) twice.  
+I was selected for, and am currently enrolled in [EPIC Institute of Technology](https://epic-institute.io/about-epic-institute.html),
+more specifically [Real-Time Backend](https://epic-institute.io/programmes-overview/real-time-backend/) track.  
+I am currently looking for Backend Engineer remote positions.    
+Check out my [LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/) for more information.
 
 # Sections
 
@@ -20,19 +18,43 @@ Please also check my [LinkedIn profile](https://www.linkedin.com/in/matheus-card
 
 # Software Engineering
 
-I've been working for a micro startup with a very ambitious project for the past year. Please refer to
-my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
-for the most up-to-date information about my work. Please note that our repository is private, so my work there is not
-here
-on GitHub.
+I've been working for a fast-paced startup with a very ambitious project.  
+Please refer to my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
+for detailed information about my role there.
 
 # Projects
 
-## [Rolling Hash File Sync C++](https://github.com/mdacach/rolling_hash_file_diff)
-A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis.
+## [rsync implementation in Rust](https://github.com/mdacach/rsync_rust)
+A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis.  
+
+Relevant Tags:  
+* Rust
+* Continuous Integration
+* Unit testing
+* Integration Testing
+* criterion
+* serde
+* clap
 
 ## [Rolling Hash Data Structure Rust](https://github.com/mdacach/rolling_hash_rust)
 Implementation of the hashing structure used above, now in Rust.
+
+## [Rolling Hash File Sync C++](https://github.com/mdacach/rolling_hash_file_diff)
+A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis, implemented in C++.
+
+## [Email Newsletter from Zero To Production in Rust](https://github.com/mdacach/newsletter)
+Email newsletter from [Zero to Production in Rust](https://www.zero2prod.com/index.html) backend development book.
+
+Relevant tags:  
+* Web Development
+* Backend
+* Telemetry
+* Databases
+* actix-web
+* sqlx
+* tokio
+* tracing
+* config
 
 ## [Prefix Tree](https://github.com/mdacach/prefix_tree)
 This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repo. I would love suggestions too!
@@ -97,17 +119,6 @@ This is an old University Assignment on Concurrency. Multiple cars go through sh
 I have also started studying Go, for Web Development. I followed [this book](https://lets-go.alexedwards.net/) by Alex Edwards, but did not complete it
 due to not liking the Web Development area as much as Systems Programming. I did like GoLang as a language though, and will keep studying it.
 
-## Future Projects
-Topics for the near-future:
-
-* Test-Driven Design,
-  with [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483)
-* System Design
-  with [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=pd_sbs_sccl_1/137-0417816-8881332?pd_rd_w=M4unz&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=9E8EYTQ7PQVFK7WSMBWZ&pd_rd_r=c604fbc0-1703-4d0b-b831-ef54d7ddbdc0&pd_rd_wg=NmQk5&pd_rd_i=B08CMF2CQF&psc=1)
-* Computer Systems
-  with [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Global-ebook/dp/B07V71PHR7/ref=sr_1_2?keywords=csapp&qid=1650239425&sr=8-2)
-* and the
-  famous [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
   
 # Freelancing
 
