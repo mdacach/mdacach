@@ -23,7 +23,7 @@ for detailed information about my role there.
 
 # Projects
 
-## [rsync implementation in Rust](https://github.com/mdacach/rsync_rust)
+## [Remote File Synchronization in Rust](https://github.com/mdacach/rsync_rust)
 A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis.  
 
 Relevant Tags:  
@@ -36,7 +36,17 @@ Relevant Tags:
 * clap
 
 ## [Rolling Hash Data Structure Rust](https://github.com/mdacach/rolling_hash_rust)
-Implementation of the hashing structure used above, now in Rust.
+Implementation of the hashing structure used above written in Rust.
+
+## [Multi-threaded TCP Proxy Rust](https://gitfront.io/r/mdacach/wkTQKZ8MHYtm/rust-networking-proxy/)  
+Simple line-oriented TCP Proxy written in Rust.  
+
+Relevant tags:
+* Networking Protocols
+* Asynchronous Programming
+* Multi-threaded Programming
+* serde
+* tokio
 
 ## [Rolling Hash File Sync C++](https://github.com/mdacach/rolling_hash_file_diff)
 A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis, implemented in C++.
