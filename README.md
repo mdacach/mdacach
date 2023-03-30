@@ -1,166 +1,74 @@
 # Introduction
 
-I am a Backend Software Engineer looking for a new remote role.  
-I am a self-taught developer, studying Computer Science for around 5 years now.     
+I am a Backend Software Engineer with strong Computer Science knowledge looking for a new remote role.  
 I am particularly good with Algorithms and Data Structures, having competed in [ICPC](https://icpc.global/) twice.  
-I was selected for, and am currently enrolled in [EPIC Institute of Technology](https://epic-institute.io/about-epic-institute.html),
-more specifically [Real-Time Backend](https://epic-institute.io/programmes-overview/real-time-backend/) track.  
-Check out my [LinkedIn profile](https://www.linkedin.com/in/matheus-cardoso-dev/) for more information.
+Please look at my highlighted projects below.  
+Check out my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/) for more information.
 
 # Sections
 
-* [Software Engineering](#software-engineering)
+* [Professional Experience](#professional-experience)
 * [Projects](#projects)
 * [Freelancing](#freelancing)
 * [Competitive Programming](#competitive-programming)
 * [Online Courses](#online-courses)
 
-# Software Engineering
+# Professional Experience
 
-I've been working for a fast-paced startup with a very ambitious project.  
+I have professional experience in Systems Programming with Modern C++.  
 Please refer to my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/)
-for detailed information about my role there.
+for detailed information.
 
 # Projects
 
-## [Remote File Synchronization in Rust](https://github.com/mdacach/rsync_rust)
-A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis.  
+## [Systems Programming] [Remote File Synchronization in Rust](https://github.com/mdacach/rsync_rust)
+`rsync` algorithm implementation from [Andrew Tridgell's Ph.D. thesis](https://www.samba.org/~tridge/phd_thesis.pdf).  
 
-Relevant Tags:  
-* Rust
-* Continuous Integration
-* Unit testing
-* Integration Testing
-* criterion
-* serde
-* clap
+* Data Structures and Algorithms - [Rolling Hash](https://github.com/mdacach/rolling_hash_rust).
+* Extensive Testing - Unit, End to End, Property-based.
+* Continuous Integration - GitHub Actions.
+* Benchmarking and Data Analysis.
 
-## [Rolling Hash Data Structure Rust](https://github.com/mdacach/rolling_hash_rust)
-Implementation of the hashing structure used above written in Rust.
+## [Backend Development] [Email Newsletter in Rust](https://github.com/mdacach/newsletter)
+Cloud-native, fault-tolerant Email newsletter from built in Rust.
 
-## [Multi-threaded TCP Proxy Rust](https://gitfront.io/r/mdacach/wkTQKZ8MHYtm/rust-networking-proxy/)  
+* Asynchronous Programming.
+* Databases - PostgreSQL and Redis.
+* Docker - Image Size and Build Speed optimization.
+* Continuous Integration and Deployment (CI/CD) - GitHub Actions and Fly.io.
+* Telemetry, Observability and Instrumentation.
+* Zero-Downtime Deployment.
+* actix-web, sqlx, tokio, tracing, config, secrecy.
+
+
+## [Multi-threaded TCP Proxy in Rust](https://gitfront.io/r/mdacach/wkTQKZ8MHYtm/rust-networking-proxy/)  
 Simple line-oriented TCP Proxy written in Rust.  
 
-Relevant tags:
-* Networking Protocols
-* Asynchronous Programming
-* Multi-threaded Programming
-* serde
-* tokio
+* Networking Protocols.
+* Asynchronous Programming.
+* Multi-threaded Programming.
+* serde, tokio.
 
-## [Rolling Hash File Sync C++](https://github.com/mdacach/rolling_hash_file_diff)
-A simplified `rsync` algorithm from Andrew Tridgell's Ph.D. thesis, implemented in C++.
+## [Rolling Hash File Sync in C++](https://github.com/mdacach/rolling_hash_file_diff)
+`rsync` algorithm implementation, now in C++.
 
-## [Email Newsletter from Zero To Production in Rust](https://github.com/mdacach/newsletter)
-Email newsletter from [Zero to Production in Rust](https://www.zero2prod.com/index.html) backend development book.
-
-Relevant tags:  
-* Web Development
-* Backend
-* Telemetry
-* Databases
-* actix-web
-* sqlx
-* tokio
-* tracing
-* config
-
-## [Prefix Tree](https://github.com/mdacach/prefix_tree)
-This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repo. I would love suggestions too!
-
-Relevant Tags:
-
-* C++17
-* Test-Driven Development, TDD, BDD
-* Unit Tests
-* Best practices, Clean Code
-* Documentation
-* Data Structures, Algorithms
-
-## Learning Rust
-I've been amazed by the language and I aim to become an excellent Rust programmer.
-I am learning Rust primarily through books (there are many great ones!) and putting the skills learned in action through my project below.
-
-### [Automating script for incremental game](https://github.com/mdacach/ngu_script_rust)
-This is a script for automating the gameplay of an [incremental game](https://en.wikipedia.org/wiki/Incremental_game).
-It gives me the opportunity of going deeper in the environment and practice my Rust skills. It's under active development.
-
-&nbsp;
-&nbsp;
-
-Some more learning projects:
-
-### [Solutions for Rustlings](https://github.com/mdacach/rustlings_solutions)
-### [Solutions for exercism.org](https://github.com/mdacach/exercism_solutions)
-
-&nbsp;
-&nbsp;
-
-### Projects from ["The Rust Programming Language"](https://doc.rust-lang.org/book/title-page.html)
-### [Multithreaded Web Server (Chapter 20)](https://github.com/mdacach/multithreaded_web_server)
-### [Grep command-line application (Chapter 12)](https://github.com/mdacach/minigrep)
-### [Guessing Game (Chapter 2)](https://github.com/mdacach/guessing_game)
-
-&nbsp;
-&nbsp;
-
-### Projects from ["Programming Rust"](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
-### [Mandelbrot Generator (Chapter 2)](https://github.com/mdacach/mandelbrot_generator)
-### [GCD Web Server (Chapter 2)](https://github.com/mdacach/gcd_web_server)
-### [GCD CLI application (Chapter 2)](https://github.com/mdacach/gcd_cli)
-
-
-## [Design Patterns (Java -> C++)](https://github.com/mdacach/head_first_design_patterns_cpp)
-I am currently learning Design Patterns by going through the great
-book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
-(in Java) and porting it to my current stack, C++. Please note it is a work in
-progress.
-Relevant resources for this project are
-
-* [learncpp](https://www.learncpp.com/) which I've found to be an amazing refresher on C++ topics
-* [mrlegowatch's repository](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp), which was also porting the
-  examples in Java to be C++, but is unfortunately incomplete.
+## [Prefix Tree in C++](https://github.com/mdacach/prefix_tree)
+This is a data structure commonly used for Strings in Competitive Programming that I saw fit to our application at work. It performed much better than our previous solution. More information is found on the repository.
  
 ## [Concurrency (Java)](https://github.com/mdacach/autonomous_driving)
 This is an old University Assignment on Concurrency. Multiple cars go through shared sections of a road.
 
-## [Web Development with Go (Let's Go Book by Alex Edwards)](https://github.com/mdacach/lets_go_web_development)
-I have also started studying Go, for Web Development. I followed [this book](https://lets-go.alexedwards.net/) by Alex Edwards, but did not complete it
-due to not liking the Web Development area as much as Systems Programming. I did like GoLang as a language though, and will keep studying it.
-
-  
 # Freelancing
 
-My first work experience was through Freelancing. I am currently Top Rated Plus on Upwork, with 100%
-Job Success Score and 5-star feedback. I have taken projects that include:
-
-* Software Engineering assignments in multiple languages
-* Hard algorithmic problems
-* Algorithmic training
-* Production-ready C++ development
-
-With a special mention to Coding Interview Preparation, where I've done more than 40 hour-sessions preparing a mentee
-for "Big Tech" Coding Interviews.
+My first work experience was through Freelancing. I am Top Rated Plus on Upwork, with 100%
+Job Success Score and 5-star feedback. I have also trained a client for "Big Tech" coding interviews,
+including problem-solving techniques, specific algorithms and data structures, and interview preparation.
 
 # Competitive Programming
 
-I've found Competitive Programming to be a great (and fun) exercise, having poured many hours into it. I regularly
-compete on [Codeforces](https://codeforces.com/profile/matheusdacach)
-where I currently have 1729 rating (Expert), with more than 1200 problems solved. I've learned a great deal of
-interesting ideas in Computer Science and have honed my Problem-Solving skills due to
-the competitions.
-
-All in all, I think Competitive Programming is much more beneficial than it first seems, and that's
-why I've chosen to focus on it for so long. But it also comes with downfalls:
-in competitions, we must strive to pass the solutions in the least coding time possible, so not a lot of consideration
-is given
-to write clean, maintainable, and readable code, which required a change of perspective
-when writing production-ready code for my current job.
-
-All my submissions are public on Codeforces, but I do not recommend going through them. I also have plans to push
-solutions
-to [CSES Problem Set](https://cses.fi/problemset/) and my individual library of Algorithms and Data Structures
-implementations for competitions, but it is a work in progress.
+I have regularly practiced Competitive Programming for mostly two years.  
+[I am currently rated "Expert", with 1729 rating](https://codeforces.com/profile/matheusdacach), and more than 1400 problems solved.   
+I have also been a nationals finalist for ICPC twice, the two times I have participated.  
 
 # Online Courses
 
