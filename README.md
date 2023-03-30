@@ -30,7 +30,7 @@ for detailed information.
 * Benchmarking and Data Analysis.
 
 ## [Backend Development] [Email Newsletter in Rust](https://github.com/mdacach/newsletter)
-Cloud-native, fault-tolerant Email newsletter from built in Rust.
+Cloud-native, fault-tolerant Email newsletter built in Rust.
 
 * Asynchronous Programming.
 * Databases - PostgreSQL and Redis.
